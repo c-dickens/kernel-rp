@@ -1,17 +1,21 @@
-# Flux 
+# Random Projections in Kernel Methods
 
-An application architecture for React
+## Charlie Dickens, Department of Computer Science
+
 
 Quick maths $$ || Ax - b ||^2 \lt \alpha $$
 
 ---
 
-### Flux Design
+### Outline
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Motivation
+--
+
+- Setup
+- The Kernel Method (trick)
+- Outline of results
+- Comparisons
+
 
 ---
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
