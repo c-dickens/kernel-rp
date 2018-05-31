@@ -2,6 +2,8 @@
 
 An application architecture for React
 
+Quick maths $\| - b \|_2^2$
+
 ---
 
 ### Flux Design
