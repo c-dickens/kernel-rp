@@ -2,7 +2,7 @@
 
 An application architecture for React
 
-Quick maths $$ \| Ax - b \|_2^2 $$
+Quick maths $ | Ax - b ||^2 $
 
 ---
 
